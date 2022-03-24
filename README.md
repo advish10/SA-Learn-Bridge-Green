@@ -1,2 +1,3 @@
 # #00FF00
-## Our team has chosen to write content that we believe will make the "Microsoft Azure Fundamentals: Describe core Azure concepts" Learn Path more beginner friendly. We intend to improve on this learn path by focusing on this module "Describe core Azure architectural components - Learn" . We believe these sections are more suited for the intermediate/expert level, and with our project we will write content that will change that.
+
+ Our team has chosen to write content that we believe will make the "Microsoft Azure Fundamentals: Describe core Azure concepts" Learn Path more beginner friendly. We intend to improve on this learn path by focusing on this module "Describe core Azure architectural components - Learn" . We believe these sections are more suited for the intermediate/expert level, and with our project we will write content that will change that.
